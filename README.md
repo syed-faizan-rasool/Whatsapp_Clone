@@ -1,2 +1,16 @@
-# Whatsapp_Clone
-In my project, I created a prototype app that visually and structurally resembles WhatsApp. It showcases my ability to replicate the design and basic features of a complex messaging platform, demonstrating my skills in Flutter development and API integration.
+# whatsapp
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
